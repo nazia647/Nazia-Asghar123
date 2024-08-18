@@ -33,3 +33,11 @@ function App() {
 }
 
 export default App
+
+
+function click () {
+  const array =2
+}
+return (
+  
+)
